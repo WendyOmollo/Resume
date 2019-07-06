@@ -5,6 +5,7 @@ This project is a resume of myself that I made.It shows the basic layout of a re
 Wendy Omollo
 ## Setup
 You can $git clone the code,extract it and work on it.Feel free to modify so as to check whetherit is the same as other resumes.
+You can copy this link to get you to the actual website '"https://wendyomollo.github.io/Resume/"'
 ## License
 MIT License
 ## Tech used
